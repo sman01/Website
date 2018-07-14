@@ -1,0 +1,17 @@
+p{color:black;}
+
+@media (min-width: 768px){p {color:white;}}
+ 
+ @media (min-width: 992px){p {color:orange;}}
+
+ @media (min-width: 1200px){p {color:yellow;}}
+
+@media (min-width: 1200px){h3 { color:white;}}
+
+body{ background:yellow;}
+
+@media (min-width: 768px){body{ background:grey;}}
+
+@media (min-width: 992px){body{ background:blue;}}
+
+@media (min-width: 1200px){body{ background:purple;}}
